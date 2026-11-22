@@ -1,2 +1,2 @@
 # etec_project
-this is my first project of leetcode
+all solution of leetcode problem which i have solved is present here
